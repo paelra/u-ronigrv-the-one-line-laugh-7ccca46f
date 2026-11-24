@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f/paelra/u-ronigrv-the-one-line-laugh-7ccca46f/rank.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f)
 [![reward](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f/paelra/u-ronigrv-the-one-line-laugh-7ccca46f/reward.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f)
 
-A tiny Node program that writes one funny sentence — a New Year's gym resolution with a twist ending — to /output/entry.txt.
+A small Node script that saves a single joke — a January gym resolution that quietly falls apart by March — as one line in /output/entry.txt.
 
 ## Run it
 
